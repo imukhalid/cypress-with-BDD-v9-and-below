@@ -1,0 +1,22 @@
+{
+  "name": "cypress-with-bdd-v9-and-below",
+  "version": "1.0.0",
+  "description": "This repository contains a test automation framework built with Cypress and Cucumber, using version 9 or below of the Cypress-Cucumber-Preprocessor. It enables Behavior-Driven Development (BDD) for writing automated tests in a human-readable format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imukhalid/cypress-with-BDD-v9-and-below.git"
+  },
+  "author": "Usama Khalid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imukhalid/cypress-with-BDD-v9-and-below/issues"
+  },
+  "homepage": "https://github.com/imukhalid/cypress-with-BDD-v9-and-below#readme",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  }
+}
